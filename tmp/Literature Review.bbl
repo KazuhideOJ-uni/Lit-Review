@@ -1,0 +1,75 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{mizunoStructuralStudiesCiliary2012b}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=b1b90a852fb82653bbef6778f7a3fa55}{%
+           family={Mizuno},
+           familyi={M\bibinitperiod},
+           given={Naoko},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1a74546bbee930a7d964712dab182c56}{%
+           family={Taschner},
+           familyi={T\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=42158db97b8bbb8186394e4277d22980}{%
+           family={Engel},
+           familyi={E\bibinitperiod},
+           given={Benjamin\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b4636f717cabddaf29cc06e1738f9af7}{%
+           family={Lorentzen},
+           familyi={L\bibinitperiod},
+           given={Esben},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{34830a4261699c2d6dd8172e8368e9af}
+      \strng{fullhash}{e38138c542862d37a6eec043ee8e636b}
+      \strng{fullhashraw}{e38138c542862d37a6eec043ee8e636b}
+      \strng{bibnamehash}{34830a4261699c2d6dd8172e8368e9af}
+      \strng{authorbibnamehash}{34830a4261699c2d6dd8172e8368e9af}
+      \strng{authornamehash}{34830a4261699c2d6dd8172e8368e9af}
+      \strng{authorfullhash}{e38138c542862d37a6eec043ee8e636b}
+      \strng{authorfullhashraw}{e38138c542862d37a6eec043ee8e636b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cilia are organelles found on most eukaryotic cells, where they serve important functions in motility, sensory reception, and signaling. Recent advances in electron tomography have facilitated a number of ultrastructural studies of ciliary components that have significantly improved our knowledge of cilium architecture. These studies have produced nanometer-resolution structures of axonemal dynein complexes, microtubule doublets and triplets, basal bodies, radial spokes, and nexin complexes. In addition to these electron tomography studies, several recently published crystal structures provide insights into the architecture and mechanism of dynein as well as the centriolar protein SAS-6, important for establishing the 9-fold symmetry of centrioles. Ciliary assembly requires intraflagellar transport (IFT), a process that moves macromolecules between the tip of the cilium and the cell body. IFT relies on a large 20-subunit protein complex that is thought to mediate the contacts between ciliary motor and cargo proteins. Structural investigations of IFT complexes are starting to emerge, including the first three-dimensional models of IFT material in situ, revealing how IFT particles organize into larger train-like arrays, and the high-resolution structure of the IFT25/27 subcomplex. In this review, we cover recent advances in the structural and mechanistic understanding of ciliary components and IFT complexes.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of Molecular Biology}
+      \field{month}{9}
+      \field{number}{2}
+      \field{title}{Structural {{Studies}} of {{Ciliary Components}}}
+      \field{volume}{422}
+      \field{year}{2012}
+      \field{pages}{163\bibrangedash 180}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.jmb.2012.05.040
+      \endverb
+      \keyw{cilium,electron tomography,flagellum,IFT complex,intraflagellar transport}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
