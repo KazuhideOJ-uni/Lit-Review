@@ -1,0 +1,70 @@
+\documentclass{article}
+\usepackage{csquotes}
+\usepackage[backend=biber,natbib=true,style=numeric,sorting=none]{biblatex}
+
+
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+ \usepackage[english]{babel}
+\usepackage{amsthm}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+
+ \usepackage[acronym]{glossaries}
+\usepackage{mathtools}% Loads amsmath
+\numberwithin{equation}{subsection}
+\usepackage{optidef}
+\usepackage{cancel}
+
+\addbibresource{My Bibliography.bib} % Change Later
+\usepackage{hyperref} 
+
+\makeglossaries
+
+\newglossaryentry{entryOne}
+{
+        name=Glossary Entry,
+        description={Glossary entries are used to provide definitions for words in your document}
+}    
+
+\newcommand{\de}{\mathrm{d}}
+\newcommand{\De}{\mathrm{D}}
+\newcommand{\nl}{\par\noindent}
+\newcommand{\del}{\partial}
+
+\title{Literature Review}
+\author{Kazuhide Ogawa Javes 1462313}
+\date{September 2026}
+
+%---------------------------------------------------------------------------------------
+% BEGIN DOCUMENT HERE
+%---------------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+\section{Research Area}
+After discussion with A/Prof Douglas R. Brumley, My literature review will be based on the following topics:
+\begin{itemize}
+        \item Ciliary Flow
+        \item Mass Transport
+\end{itemize}
+
+
+
+
+
+
+
+%-------------------------------------------------------------
+% END OF DOCUMENT
+%-------------------------------------------------------------
+\medskip
+
+\printglossary
+
+\printbibliography
+\end{document}
