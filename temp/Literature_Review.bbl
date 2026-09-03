@@ -117,6 +117,7 @@
       \strng{editornamehash}{4080c68e9bde3664106b1a8657c72c59}
       \strng{editorfullhash}{4080c68e9bde3664106b1a8657c72c59}
       \strng{editorfullhashraw}{4080c68e9bde3664106b1a8657c72c59}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -258,6 +259,64 @@
       \endverb
       \verb{file}
       \verb C:\Users\kazuh\Zotero\storage\XISCNGJR\Riisgård and Larsen - 2007 - Viscosity of seawater controls beat frequency of water-pumping cilia and filtration rate of mussels.pdf
+      \endverb
+    \endentry
+    \entry{brumleyMetachronalWavesFlagellar2015}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=9816f4e03540ef203cdd550c6a1c0c2a}{%
+           family={Brumley},
+           familyi={B\bibinitperiod},
+           given={Douglas\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0e01d5852228975f88c30827e92448c5}{%
+           family={Polin},
+           familyi={P\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e489e4993702366ef85deaef3bb12cb3}{%
+           family={Pedley},
+           familyi={P\bibinitperiod},
+           given={Timothy\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b7b458bcb47dff2d830645cee59bb869}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={Raymond\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{032e50eec3af629324e484c270db3034}
+      \strng{fullhash}{f2fb18c3fb3814b09ba059dba8e18935}
+      \strng{fullhashraw}{f2fb18c3fb3814b09ba059dba8e18935}
+      \strng{bibnamehash}{032e50eec3af629324e484c270db3034}
+      \strng{authorbibnamehash}{032e50eec3af629324e484c270db3034}
+      \strng{authornamehash}{032e50eec3af629324e484c270db3034}
+      \strng{authorfullhash}{f2fb18c3fb3814b09ba059dba8e18935}
+      \strng{authorfullhashraw}{f2fb18c3fb3814b09ba059dba8e18935}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Groups of eukaryotic cilia and flagella are capable of coordinating their beating over large scales, routinely exhibiting collective dynamics in the form of metachronal waves. The origin of this behaviour---possibly influenced by both mechanical interactions and direct biological regulation---is poorly understood, in large part due to a lack of quantitative experimental studies. Here we characterize in detail flagellar coordination on the surface of the multicellular alga Volvox carteri , an emerging model organism for flagellar dynamics. Our studies reveal for the first time that the average metachronal coordination observed is punctuated by periodic phase defects during which synchrony is partial and limited to specific groups of cells. A minimal model of hydrodynamically coupled oscillators can reproduce semi-quantitatively the characteristics of the average metachronal dynamics, and the emergence of defects. We systematically study the model's behaviour by assessing the effect of changing intrinsic rotor characteristics, including oscillator stiffness and the nature of their internal driving force, as well as their geometric properties and spatial arrangement. Our results suggest that metachronal coordination follows from deformations in the oscillators' limit cycles induced by hydrodynamic stresses, and that defects result from sufficiently steep local biases in the oscillators' intrinsic frequencies. Additionally, we find that random variations in the intrinsic rotor frequencies increase the robustness of the average properties of the emergent metachronal waves.}
+      \field{issn}{1742-5689, 1742-5662}
+      \field{journaltitle}{Journal of The Royal Society Interface}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{108}
+      \field{title}{Metachronal Waves in the Flagellar Beating of {{{\emph{Volvox}}}} and Their Hydrodynamic Origin}
+      \field{urlday}{3}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{20141358}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsif.2014.1358
+      \endverb
+      \verb{file}
+      \verb C:\Users\kazuh\Zotero\storage\WPMPZXVJ\Brumley et al. - 2015 - Metachronal waves in the flagellar beating of Volvox and their hydrodynamic origin.pdf
       \endverb
     \endentry
   \enddatalist
