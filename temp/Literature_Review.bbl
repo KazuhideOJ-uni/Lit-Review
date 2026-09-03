@@ -1,0 +1,200 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{mizunoStructuralStudiesCiliary2012}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=b1b90a852fb82653bbef6778f7a3fa55}{%
+           family={Mizuno},
+           familyi={M\bibinitperiod},
+           given={Naoko},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1a74546bbee930a7d964712dab182c56}{%
+           family={Taschner},
+           familyi={T\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=42158db97b8bbb8186394e4277d22980}{%
+           family={Engel},
+           familyi={E\bibinitperiod},
+           given={Benjamin\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b4636f717cabddaf29cc06e1738f9af7}{%
+           family={Lorentzen},
+           familyi={L\bibinitperiod},
+           given={Esben},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{34830a4261699c2d6dd8172e8368e9af}
+      \strng{fullhash}{e38138c542862d37a6eec043ee8e636b}
+      \strng{fullhashraw}{e38138c542862d37a6eec043ee8e636b}
+      \strng{bibnamehash}{34830a4261699c2d6dd8172e8368e9af}
+      \strng{authorbibnamehash}{34830a4261699c2d6dd8172e8368e9af}
+      \strng{authornamehash}{34830a4261699c2d6dd8172e8368e9af}
+      \strng{authorfullhash}{e38138c542862d37a6eec043ee8e636b}
+      \strng{authorfullhashraw}{e38138c542862d37a6eec043ee8e636b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cilia are organelles found on most eukaryotic cells, where they serve important functions in motility, sensory reception, and signaling. Recent advances in electron tomography have facilitated a number of ultrastructural studies of ciliary components that have significantly improved our knowledge of cilium architecture. These studies have produced nanometer-resolution structures of axonemal dynein complexes, microtubule doublets and triplets, basal bodies, radial spokes, and nexin complexes. In addition to these electron tomography studies, several recently published crystal structures provide insights into the architecture and mechanism of dynein as well as the centriolar protein SAS-6, important for establishing the 9-fold symmetry of centrioles. Ciliary assembly requires intraflagellar transport (IFT), a process that moves macromolecules between the tip of the cilium and the cell body. IFT relies on a large 20-subunit protein complex that is thought to mediate the contacts between ciliary motor and cargo proteins. Structural investigations of IFT complexes are starting to emerge, including the first three-dimensional models of IFT material in situ, revealing how IFT particles organize into larger train-like arrays, and the high-resolution structure of the IFT25/27 subcomplex. In this review, we cover recent advances in the structural and mechanistic understanding of ciliary components and IFT complexes.}
+      \field{issn}{0022-2836}
+      \field{journaltitle}{Journal of Molecular Biology}
+      \field{month}{9}
+      \field{number}{2}
+      \field{title}{Structural {{Studies}} of {{Ciliary Components}}}
+      \field{volume}{422}
+      \field{year}{2012}
+      \field{pages}{163\bibrangedash 180}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.jmb.2012.05.040
+      \endverb
+      \verb{file}
+      \verb C:\Users\kazuh\Zotero\storage\JPK75WDR\Mizuno et al. - 2012 - Structural Studies of Ciliary Components.pdf
+      \endverb
+      \keyw{cilium,electron tomography,flagellum,IFT complex,intraflagellar transport}
+    \endentry
+    \entry{pacherresAcuteTemperatureEffects}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=121262ef443314b73630a63702f55c50}{%
+           family={Pacherres},
+           familyi={P\bibinitperiod},
+           given={Cesar\bibnamedelima O.},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=7417f97a47513902beb7ee0286ecdfc3}{%
+           family={Dhillon},
+           familyi={D\bibinitperiod},
+           given={Max\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3558f49c486b6c9f0668f7492245420e}{%
+           family={Bilbo},
+           familyi={B\bibinitperiod},
+           given={Mads},
+           giveni={M\bibinitperiod}}}%
+        {{hash=df16e265f11176fc20c744dfc7d49a39}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Mikkel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9816f4e03540ef203cdd550c6a1c0c2a}{%
+           family={Brumley},
+           familyi={B\bibinitperiod},
+           given={Douglas\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=2acd13a542d3025f38c35c4d4e5d47ba}{%
+           family={Aranda},
+           familyi={A\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e80e002bf780f1d081c59ea271eba2bf}{%
+           family={Ahmerkamp},
+           familyi={A\bibinitperiod},
+           given={Soeren},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4cd7c1402076ba0d61b2aed682a78141}{%
+           family={Kühl},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{01ed6823f6f97fbb3f59e0a72e37b791}
+      \strng{fullhash}{65527ea659c2a08a2f1dc81006a2bcc2}
+      \strng{fullhashraw}{65527ea659c2a08a2f1dc81006a2bcc2}
+      \strng{bibnamehash}{01ed6823f6f97fbb3f59e0a72e37b791}
+      \strng{authorbibnamehash}{01ed6823f6f97fbb3f59e0a72e37b791}
+      \strng{authornamehash}{01ed6823f6f97fbb3f59e0a72e37b791}
+      \strng{authorfullhash}{65527ea659c2a08a2f1dc81006a2bcc2}
+      \strng{authorfullhashraw}{65527ea659c2a08a2f1dc81006a2bcc2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cilia-induced vortical flows are critical for regulating oxygen (O2) and metabolite exchange across coral-water interfaces. While this active ventilation affects the coral tissue microenvironment, its role in thermal stress remains poorly understood. Using high-speed imaging of cilia beating, particle image velocimetry with O2-sensitive nanoparticles, and a mechanistic transport model, we quantified how ciliary dynamics in the reef-building coral Porites lutea respond to acute warming in darkness. Moderate warming (\textasciitilde 35{$^\circ$}C) enhanced ciliary activity and advective transport yet paradoxically thickened the concentration boundary layer with O2-depleted water, exposing tissues to transient hypoxia. At higher temperatures, ventilation failed to meet rising metabolic demands and anoxic regions expanded rapidly. Above \textasciitilde 37{$^\circ$}C, ciliary coordination collapsed and vortical flows dissipated, shifting transport to a diffusion-limited regime accelerating coral mortality. These results identify ciliary beating as a key regulator of thermal tolerance and early indicator of critical physiological tipping points for reef-building corals in a warming, deoxygenating ocean. Ciliary flows buffer coral O2 supply under heat stress until a tipping point, above which hypoxia and tissue failure are induced.}
+      \field{journaltitle}{Science Advances}
+      \field{number}{21}
+      \field{title}{Acute Temperature Effects on Cilia Beating Increase Coral Deoxygenation}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{12}
+      \field{urldateera}{ce}
+      \field{pages}{eaeg0950}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/sciadv.aeg0950
+      \endverb
+      \verb{file}
+      \verb C:\Users\kazuh\Zotero\storage\FG892LTF\Pacherres et al. - 2026 - Acute temperature effects on cilia beating increase coral deoxygenation.pdf
+      \endverb
+    \endentry
+    \entry{riisgardViscositySeawaterControls2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=91ae4fcce78e590772c15a3a42d9ce69}{%
+           family={Riisg{å}rd},
+           familyi={R\bibinitperiod},
+           given={Hu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2ef00dd902eebc02aef775b9ab7b5322}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={Ps},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{90bf7af53d8b2e59e7330230bf2c92c9}
+      \strng{fullhash}{90bf7af53d8b2e59e7330230bf2c92c9}
+      \strng{fullhashraw}{90bf7af53d8b2e59e7330230bf2c92c9}
+      \strng{bibnamehash}{90bf7af53d8b2e59e7330230bf2c92c9}
+      \strng{authorbibnamehash}{90bf7af53d8b2e59e7330230bf2c92c9}
+      \strng{authornamehash}{90bf7af53d8b2e59e7330230bf2c92c9}
+      \strng{authorfullhash}{90bf7af53d8b2e59e7330230bf2c92c9}
+      \strng{authorfullhashraw}{90bf7af53d8b2e59e7330230bf2c92c9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The small-scale movements of cilia make the temperature-dependent viscosity of water a key physical/mechanical factor. In mussels and other suspension-feeding bivalves, bands of waterpumping lateral cilia produce the feeding current through the interfilamentary canals of the enlarged gill (which mainly serves as a water-pumping and food-particle collecting organ). Because the viscosity of seawater is inversely related to temperature, the linear increase of filtration rate with temperature in mussels cannot be explained solely by increased biological activity. To resolve the question of whether change in filtration rate with temperature in mussels Mytilus edulis is under mainly biological/physiological or physical/mechanical control, we conducted laboratory experiments on mussel-gill preparations stimulated with serotonin, and on intact mussels. In gill-preparations, the beat frequency of the water-pumping lateral cilia was measured both as a function of temperature and as a function of kinematic viscosity in dextran- and PVP-manipulated seawater at constant temperature. Data on kinematic viscosity of seawater and viscosity-manipulated seawater were converted to `temperature equivalents' of seawater by measurement of the viscosities, and this showed that the effect of temperature on lateral cilia activity in gill-preparations is purely mechanical, controlled by the viscosity of the ambient seawater. Further, the ciliary beat frequency was found to depend on kinematic viscosity to the power --3/2 (f {$\approx$} {$\nu$}--3/2), a relation we used to develop a musselpump model for the filtration rate of intact mussels vs. viscosity. The model is in agreement with filtration rates measured in intact mussels, suggesting that viscosity of seawater is the controlling factor for the beat frequency of lateral pump-cilia and filtration rate in mussels. According to the model, the mussel pump yields a constant power within the temperature-tolerance interval.}
+      \field{issn}{0171-8630, 1616-1599}
+      \field{journaltitle}{Marine Ecology Progress Series}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Viscosity of Seawater Controls Beat Frequency of Water-Pumping Cilia and Filtration Rate of Mussels {{Mytilus}} Edulis}
+      \field{urlday}{28}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{343}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{141\bibrangedash 150}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.3354/meps06930
+      \endverb
+      \verb{file}
+      \verb C:\Users\kazuh\Zotero\storage\XISCNGJR\Riisgård and Larsen - 2007 - Viscosity of seawater controls beat frequency of water-pumping cilia and filtration rate of mussels.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
